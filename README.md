@@ -1,2 +1,2 @@
-# JMBannerSwift
-JMBannerSwift
+# JMBannerModule
+JMBannerModule
